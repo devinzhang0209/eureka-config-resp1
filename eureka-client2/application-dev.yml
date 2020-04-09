@@ -1,0 +1,3 @@
+server:
+  port: 7005
+msg: this msg is response by port 7003
